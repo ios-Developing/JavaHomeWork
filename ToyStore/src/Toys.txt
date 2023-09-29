@@ -1,0 +1,4 @@
+ToyStore.ToyStore.Toy [id=3, name=Матрёшка, weight=65.0]
+ToyStore.ToyStore.Toy [id=0, name=Кукла, weight=25.0]
+ToyStore.ToyStore.Toy [id=1, name=Машинка, weight=40.0]
+ToyStore.ToyStore.Toy [id=2, name=Робот, weight=3.0]
